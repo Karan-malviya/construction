@@ -1,0 +1,69 @@
+
+*{
+    margin: 0;
+    border: border-box;
+    
+  }
+  .main{
+   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYdSzKrIDDJ4SgT-sbF_fdN1xxwxr0_8Auw&usqp=CAU");
+  }
+  .navbar{
+    height: 60px;
+    background-color: rgba(2, 12, 12, 0.304);
+    justify-content:center ;
+
+  }
+  .nav-logo{
+height: 60px;
+width: 450px
+  }
+  .logo{
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThz29VcS8axJ27QTLQNd1Jf0J3DEHF8zUaPbMLptqfHJ1Np9-FW7ZK9ZOtpwFK7jmwQ&usqp=CAU');
+    height: 60px;
+    width:100%;
+  }
+  ul li{
+    padding: 25px 25px;
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    left: 950px;
+  
+      
+  }
+    
+  .container{
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLnsgqXYDf5Paw0L-nb5IqsKQSSZw7PAcNQ&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+  }
+  .bhai{
+    
+   
+    border: 2px solid white;
+    border-radius:20px;
+    width:500px;
+    font-size: 48px;
+    position: relative;
+    left: 250px;
+    position: absolute;
+    top: 200px;
+
+  }
+.karan{
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.line img{
+  position: relative;
+  left: 550px;
+    position: relative;
+    top: -40px;
+}  
+  
+
+  
+  
